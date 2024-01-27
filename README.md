@@ -1,4 +1,4 @@
-# Hello Git
+# Hello to CVDS First Lab
 
 Welcome to this repository.
 
